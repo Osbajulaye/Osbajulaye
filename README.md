@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Osbajulaye
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I’m now a alx student, this is my first repository as a full stack engineer
+  
 
 <!---
 Osbajulaye/Osbajulaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
